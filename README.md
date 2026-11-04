@@ -1,5 +1,5 @@
 # Screencaps-Generator
-Generates folder of interesting screencaps and capture sheet / gallery grid from a video, a little bit smarter than just evenly spaced screenshots.  Useful for having a quick set of options for thumbnails, etc.
+Generates folder of interesting screencaps and capture sheet / gallery grid from a video, a little bit smarter than just evenly spaced screenshots (it checks for faces, eyes, blur, blinking, etc).  Useful for having a quick set of options for thumbnails, etc.
 
 Download here: https://github.com/pftq/Screencaps-Generator/releases/tag/20261104
 
