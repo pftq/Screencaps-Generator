@@ -3,6 +3,13 @@ Generates folder of interesting screencaps and capture sheet / gallery grid from
 
 Download here: https://github.com/pftq/Screencaps-Generator/releases/tag/20261104
 
+You may also find these useful:
+- Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
+- Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
+- MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
+- Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
+- Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
+
 
 Example from a music video I worked on here: https://youtu.be/f7r2H5q5LpE
 <img width="1145" height="734" alt="image" src="https://github.com/user-attachments/assets/d181878a-e252-437a-b615-2ca7f87901b1" />
