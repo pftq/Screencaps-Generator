@@ -3,7 +3,7 @@ Generates folder of interesting screencaps and capture sheet / gallery grid from
 
 Download here: https://github.com/pftq/Screencaps-Generator/releases/tag/20261104
 
-You may also find these useful:
+You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
